@@ -35,4 +35,4 @@
 
 https://github.com/MikeGordillo/MemberProfileGenerator
 
-      
+![screenshot](./Images/GeneratedHtml.png)
