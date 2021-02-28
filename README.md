@@ -18,14 +18,14 @@
 ## Description:
 * This App creates a member profile card that dynamically displays html from your command line, when adding a new team member.
 ## Installation:
-* download files on this repository and run index.js on node.js
+* Download files on this repository and run index.js on node.js
 ## Usage:
 * Simply answer the questions/ prompt after running index.js
 ## license:
 * None
         
 ## Contributing:
-* yes, just fork, and pull requests for approval
+* Yes, just fork, and pull requests for approval
 ## Testing:
 * npm run test
 ## Questions:
