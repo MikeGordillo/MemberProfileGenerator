@@ -36,6 +36,3 @@
 https://github.com/MikeGordillo/MemberProfileGenerator
 
 ![screenshot](./Images/GeneratedHtml.png)
-
-![video](https://www.youtube.com/watch?v=hY5LYcoHjP8&feature=youtu.be)
-
